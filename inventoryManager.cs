@@ -1,10 +1,10 @@
-/*public class InventoryManager
+public class InventoryManager
 {
     private List<InventoryItem> Items = new List<InventoryItem>();
 
     public void AddItem(InventoryItem Item)
     {
-        Items.add(Item);
+        Items.Add(Item);
     }
 
     public void RemoveItem(string ProductCode)
@@ -28,6 +28,6 @@
 
     public List<InventoryItem> GetAllItems()
     {
-        return items;
+        return Items;
     }
-}*/
+}
