@@ -1,4 +1,4 @@
-public class InventoryManager
+/*public class InventoryManager
 {
     private List<InventoryItem> Items = new List<InventoryItem>();
 
@@ -30,4 +30,4 @@ public class InventoryManager
     {
         return items;
     }
-}
+}*/

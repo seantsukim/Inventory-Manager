@@ -1,0 +1,15 @@
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.AssemblyInfoInputs.cache
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.AssemblyInfo.cs
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.sourcelink.json
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\bin\Debug\net10.0\Inventory-Manager.exe
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\bin\Debug\net10.0\Inventory-Manager.deps.json
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\bin\Debug\net10.0\Inventory-Manager.runtimeconfig.json
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\bin\Debug\net10.0\Inventory-Manager.dll
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\bin\Debug\net10.0\Inventory-Manager.pdb
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.dll
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\refint\Inventory-Manager.dll
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.pdb
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\Inventory-Manager.genruntimeconfig.cache
+C:\Users\Sean Tsukasa Kim\Desktop\Inventory-Manager\obj\Debug\net10.0\ref\Inventory-Manager.dll
