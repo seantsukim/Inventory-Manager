@@ -1,6 +1,6 @@
 public class InventoryManager
 {
-    private List<InventoryItem> Items = new List<InventoryItem>;
+    private List<InventoryItem> Items = new List<InventoryItem>();
 
     public void AddItem(InventoryItem Item)
     {

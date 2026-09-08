@@ -1,7 +1,7 @@
 public class InventoryItem //information containing product information
 {
-    public string productCode { get; set; }
-    public string productName { get; set; }
-    public int productQuantity { get; set; }
-    public float price { get; set; } //only need a float for space in decimal
-}
+    public string ProductCode { get; set; }
+    public string ProductName { get; set; }
+    public int ProductQuantity { get; set; }
+    public decimal ProductPrice { get; set; } //most precise type for managing dollar amount
+}    
